@@ -1,5 +1,5 @@
 <div align="center" id="badges">
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
   <h2>Contact with me</h2>
   <a target="_blank" href="https://www.linkedin.com/in/mohamed-miri/">
