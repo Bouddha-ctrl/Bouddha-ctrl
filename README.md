@@ -5,12 +5,15 @@
   <a target="_blank" href="https://www.linkedin.com/in/mohamed-miri/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedIn&logoColor=whit" alt="Facebook"/>
   </a>
+  ---
   </br>
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouddha-ctrl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   ---
 </br>
 
   ![](https://komarev.com/ghpvc/?username=Bouddha-ctrl)
+  
 </div>
 <!--
 **Bouddha-ctrl/Bouddha-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
