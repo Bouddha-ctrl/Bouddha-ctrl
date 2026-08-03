@@ -16,7 +16,7 @@ I'm passionate about building software, exploring AI, and creating projects that
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=terraform,aws,python,java,cpp,js,ts,nodejs,react,nextjs,docker,kubernetes,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=terraform,aws,python,java,cpp,js,ts,nodejs,react,nextjs,docker,kubernetes" />
 
 </p>
 
