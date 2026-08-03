@@ -31,3 +31,4 @@ I'm passionate about building software, exploring AI, and creating projects that
 ---
 
 ⭐ Thanks for visiting my profile!
+  ![](https://komarev.com/ghpvc/?username=Bouddha-ctrl)
