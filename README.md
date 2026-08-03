@@ -45,20 +45,4 @@ I'm passionate about building software, exploring AI, and creating projects that
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bouddha-ctrl&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/Bouddha-ctrl">GitHub</a>
-</p>
-
----
-
 ⭐ Thanks for visiting my profile!
