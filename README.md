@@ -8,22 +8,7 @@ I'm passionate about building software, exploring AI, and creating projects that
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="170"
-    src="YOUR_STATS_ENDPOINT/api?username=Bouddha-ctrl&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&hide_border=true"
-  />
-  <img
-    height="170"
-    src="YOUR_STATS_ENDPOINT/api/top-langs?username=Bouddha-ctrl&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="YOUR_STATS_ENDPOINT/api?username=Bouddha-ctrl&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true"
-  />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Bouddha-ctrl&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=Bouddha-ctrl&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&theme=github_dark)
 
 ---
 
