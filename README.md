@@ -1,32 +1,64 @@
-<div align="center" id="badges">
-<h1>Hi there 👋</h1>
+# Hi there 👋 I'm Bouddha
 
-  <h2>Contact with me</h2>
-  <a target="_blank" href="https://www.linkedin.com/in/mohamed-miri/">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedIn&logoColor=whit" alt="Facebook"/>
-  </a>
-  
-  </br>
+### 🚀 Developer | AI Enthusiast | Open Source Contributor
 
+I'm passionate about building software, exploring AI, and creating projects that solve real-world problems.
 
-   [![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Bouddha-ctrl&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats](https://github-stats-extended.vercel.app/api?username=octocat&theme=radical))
-   ---
-</br>
+---
 
-  ![](https://komarev.com/ghpvc/?username=Bouddha-ctrl)
-  
-</div>
-<!--
-**Bouddha-ctrl/Bouddha-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
+  <img
+    height="170"
+    src="YOUR_STATS_ENDPOINT/api?username=Bouddha-ctrl&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&hide_border=true"
+  />
+  <img
+    height="170"
+    src="YOUR_STATS_ENDPOINT/api/top-langs?username=Bouddha-ctrl&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img
+    src="YOUR_STATS_ENDPOINT/api?username=Bouddha-ctrl&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,nodejs,react,nextjs,docker,kubernetes,git,github,linux,vscode" />
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bouddha-ctrl&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bouddha-ctrl&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Bouddha-ctrl">GitHub</a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
